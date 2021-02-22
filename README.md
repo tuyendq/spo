@@ -1,2 +1,1 @@
-# spo
-Sharepoint Online
+# Sharepoint Online
